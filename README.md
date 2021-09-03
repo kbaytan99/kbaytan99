@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kbaytan99
-- 👀 I’m interested in Programming
+- 👀 I’m interested in C/C++/Java/Python/Php/Javascript
 - 🌱 I’m currently learning Javascript, Php, Laravel Framework
 - 💞️ I’m looking to collaborate on software company
 - 📫 How to reach me kbaytan99@gmail.com
