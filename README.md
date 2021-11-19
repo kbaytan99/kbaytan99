@@ -6,7 +6,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Enginnering at the University of Catalunya.\
-🌱 &nbsp;I'm on track for learning more about 'HTML' / 'CSS' / 'JAVACRIPT' / 'VUE, ANGULAR, REACT, JQUERY , NODE' / 'BOOTSRAP' / 'PHP'.\
+🌱 &nbsp;I'm on track for learning more about 'HTML' / 'CSS' / 'JAVACRIPT' / 'VUE, ANGULAR, REACT, JQUERY , NODE' / 'BOOTSTRAP' / 'PHP'.\
 ✉️ &nbsp;You can shoot me an email at abaytan@uoc.edu! I'll try to respond as soon as I can.\
 
 ### 🛠 &nbsp;Tech Stack
