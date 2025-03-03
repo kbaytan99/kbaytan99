@@ -1,36 +1,53 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+  <h2>Hello there, fellow developers!</h2>
 </div>
 
-👨🏻‍💻 &nbsp;About Me
+## About Me
+I’m **Kaan Baytan**, a Senior Back-End & Full-Stack Engineer with over 5 years of professional experience. I specialize in building scalable, enterprise-grade software solutions using technologies such as Java (Spring Boot, J2EE, Hibernate), .NET, Node.js, and modern front-end frameworks. I am passionate about designing microservices, robust RESTful APIs, and cloud-native applications that leverage best practices in DevOps, containerization, and continuous integration/continuous deployment.
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Enginnering at the University of Catalunya.\
-🌱 &nbsp;I'm on track for learning more about 'HTML' / 'CSS' / 'JAVACRIPT' / 'VUE, ANGULAR, REACT, JQUERY , NODE' / 'BOOTSTRAP' / 'PHP'.\
-✉️ &nbsp;You can shoot me an email at abaytan@uoc.edu! I'll try to respond as soon as I can.\
+## Education & Certifications
+- **Bachelor’s Degree in Computer Engineering** (2022-2026)  
+  Universitat Oberta de Catalunya (UOC)
+- **DAM - Development of Multiplatform Applications** (2020-2022)  
+  CC CIDE - Centre Internacional d'Educació
+- **Certifications:**  
+  - Full Stack Developer Certification
+  - Java Developer Certification
+  - NestJS Certification
+  - Jest Certification
+  - JUnit Certification
 
-### 🛠 &nbsp;Tech Stack
+## Technical Expertise
+- **Languages:** Java, C#, JavaScript (ES6+), TypeScript, PHP, Python, C, C++
+- **Frameworks & Libraries:**  
+  Spring Boot, .NET Core, NestJS, React, Angular, Vue.js, jQuery, Bootstrap
+- **Cloud & DevOps:**  
+  AWS (EC2, S3, Lambda, API Gateway, RDS, DynamoDB), Docker, Kubernetes, Jenkins (CI/CD)
+- **Databases:**  
+  SQL (MySQL, PostgreSQL, SQL Server), NoSQL (MongoDB, Firebase, Redis)
+- **API & Security:**  
+  RESTful and GraphQL APIs, OAuth2, JWT, Swagger/OpenAPI
+- **Methodologies:**  
+  Agile (Scrum & Kanban), SOLID, Domain-Driven Design (DDD), Test-Driven Development (TDD)
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+## Professional Experience
+- **Technical Analyst & Software Engineer at Riu Hotels & Resorts**  
+  Developed analytical and cloud-integrated solutions using Java, Node.js, and PL/SQL. Focused on optimizing business processes with AWS cloud services.
+  
+- **Software Engineer at Air Europa (via Plexus Tech)**  
+  Contributed to technological advancements using TypeScript, React, HTML, CSS, Angular, and integrated AWS cloud services for enhanced performance and security.
+  
+- **Internship & Freelance Roles**  
+  Developed web applications using PHP, JavaScript, and HTML/CSS; designed and managed robust database systems using Oracle and Firebird; integrated AWS services for scalable deployments.
 
------
-Credits: [Kaan Baytan](https://github.com/kbaytan99)
+## Languages
+- **Spanish & Turkish:** Native proficiency
+- **Catalan & Mallorcan:** Advanced (B2)
+- **English:** Advanced (B2) – focused on technical and professional communication
 
-<!---
-kbaytan99/kbaytan99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Personal Philosophy
+Driven by curiosity and a commitment to continuous learning, I thrive on exploring new technologies and mentoring fellow developers. I am always ready to collaborate on innovative projects that challenge conventional approaches and push the boundaries of software engineering.
+
+---
+
+Feel free to reach out via email at [kbaytan99@gmail.com](mailto:kbaytan99@gmail.com). Let’s connect, collaborate, and create impactful solutions together!
