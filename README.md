@@ -2,6 +2,9 @@
   <h2>🚀 Hello there, fellow developers!</h2>
 </div>
 
+# **Kaan Baytan** *(He/Him)*  
+🚀 **Senior Full-Stack Engineer & Software Architect** | Java, Spring Boot, .NET, Node.js, Go, Python, Rust | Microservices & API Development | Event-Driven Systems | Cloud & DevOps (AWS, Azure, Kubernetes, Docker) | Enterprise & B2B Platforms | DDD & Clean Architecture | High-Performance, Scalable Solutions
+
 ## About Me  
 I’m **Kaan Baytan**, a **Senior Full-Stack Engineer & Software Architect** with 5+ years of professional experience delivering **enterprise-grade, mission-critical solutions** for global companies. My expertise spans **backend, frontend, cloud, and DevOps**, allowing me to design **scalable, resilient, and secure software architectures** that power millions of transactions daily.  
 
